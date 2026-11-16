@@ -16,20 +16,20 @@ export const hero = {
   eyebrow: 'Untuk kamu, sayangku',
   title: 'Selamat Ulang Tahun,',
   subtitle:
-    'Aku bikin halaman kecil ini cuma buat kamu. Pelan-pelan aja bacanya, ya — setiap bagiannya aku tulis sambil senyum-senyum sendiri.',
+    'Aku bikin halaman kecil ini cuma buat kamu. Pelan-pelan aja bacanya.',
 }
 
 export const wish = {
   candles: 5,
   prompt: 'Pejamkan mata, ucapkan permohonanmu, lalu tiup lilinnya satu per satu.',
-  done: 'Permohonanmu sudah terbang ke langit. Semoga semuanya terkabul — dan semoga aku boleh ada di setiap langkahnya.',
+  done: 'Permohonanmu sudah terbang ke langit. Semoga semuanya terkabul dan semoga aku boleh ada di setiap langkahnya.',
 }
 
 export const letter = {
   greeting: 'Vano sayang,',
   paragraphs: [
     'Selamat ulang tahun, cintaku. Hari ini dunia merayakan hari ketika orang paling baik, paling lucu, dan paling sabar yang aku kenal lahir ke dunia. Dan aku beruntung banget bisa jadi bagian dari ceritamu.',
-    'Terima kasih sudah selalu ada — di hari-hari yang mudah maupun yang berat. Terima kasih untuk tawa yang kamu bagi, pelukan yang bikin tenang, dan caramu membuat hal-hal kecil terasa istimewa.',
+    'Terima kasih sudah selalu ada di hari-hari yang mudah maupun yang berat. Terima kasih untuk tawa yang kamu bagi, pelukan yang bikin tenang, dan caramu membuat hal-hal kecil terasa istimewa.',
     'Di umurmu yang baru ini, aku berdoa semoga kamu selalu sehat, bahagia, dimudahkan semua urusannya, dan semua mimpimu pelan-pelan jadi nyata. Kalau capek, ingat ya: ada aku yang selalu ada di pihakmu.',
     'Aku sayang kamu hari ini, besok, dan di semua ulang tahun berikutnya.',
   ],
@@ -54,9 +54,9 @@ export const memories = [
     text: 'Aku masih ingat rasa gugupnya. Siapa sangka obrolan sederhana itu jadi awal dari semua ini.',
   },
   {
-    date: 'Kencan pertama',
+    date: 'Deeptalk pertama',
     title: 'Hari yang nggak mau aku lupakan',
-    text: 'Waktu terasa cepat banget. Pulangnya aku senyum-senyum sendiri sepanjang jalan.',
+    text: 'Waktu terasa cepat banget. Tiap denger kamu ngomong aku senyum-senyum sendiri.',
   },
   {
     date: 'Momen favorit',
