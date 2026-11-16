@@ -33,7 +33,7 @@ export const letter = {
     'Di umurmu yang baru ini, aku berdoa semoga kamu selalu sehat, bahagia, dimudahkan semua urusannya, dan semua mimpimu pelan-pelan jadi nyata. Kalau capek, ingat ya! ada aku yang selalu ada di pihakmu.',
     'Aku sayang kamu hari ini, besok, dan di semua ulang tahun berikutnya.',
   ],
-  closing: 'Selamanya milikmu,',
+  closing: 'Vie,',
 }
 
 export const reasons = [
