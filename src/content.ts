@@ -9,7 +9,7 @@ export const birthday = {
   month: 11,
   day: 24,
   utcOffsetHours: 7,
-  sender: 'Pacarmu yang paling sayang kamu',
+  sender: 'The one who loves you the most',
 }
 
 export const hero = {
