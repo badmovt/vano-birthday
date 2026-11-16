@@ -16,21 +16,21 @@ export const hero = {
   eyebrow: 'Untuk kamu, sayangku',
   title: 'Selamat Ulang Tahun,',
   subtitle:
-    'Aku bikin halaman kecil ini cuma buat kamu. Pelan-pelan aja bacanya.',
+    'Aku bikin halaman kecil ini cuma buat kamu. Take ur time love.',
 }
 
 export const wish = {
   candles: 5,
-  prompt: 'Pejamkan mata, ucapkan permohonanmu, lalu tiup lilinnya satu per satu.',
+  prompt: 'Pejamkan mata, ucapkan permohonan, lalu tiup lilinnya satu per satu.',
   done: 'Permohonanmu sudah terbang ke langit. Semoga semuanya terkabul dan semoga aku boleh ada di setiap langkahnya.',
 }
 
 export const letter = {
-  greeting: 'Vano sayang,',
+  greeting: 'Alo alo Vano,',
   paragraphs: [
-    'Selamat ulang tahun, cintaku. Hari ini dunia merayakan hari ketika orang paling baik, paling lucu, dan paling sabar yang aku kenal lahir ke dunia. Dan aku beruntung banget bisa jadi bagian dari ceritamu.',
+    'Selamat ulang tahun, cintaku. Hari ini dunia merayakan hari ketika orang paling baik, paling jago, dan paling hebat yang aku kenal lahir ke dunia. Dan aku beruntung banget bisa jadi bagian dari ceritamu.',
     'Terima kasih sudah selalu ada di hari-hari yang mudah maupun yang berat. Terima kasih untuk tawa yang kamu bagi, pelukan yang bikin tenang, dan caramu membuat hal-hal kecil terasa istimewa.',
-    'Di umurmu yang baru ini, aku berdoa semoga kamu selalu sehat, bahagia, dimudahkan semua urusannya, dan semua mimpimu pelan-pelan jadi nyata. Kalau capek, ingat ya: ada aku yang selalu ada di pihakmu.',
+    'Di umurmu yang baru ini, aku berdoa semoga kamu selalu sehat, bahagia, dimudahkan semua urusannya, dan semua mimpimu pelan-pelan jadi nyata. Kalau capek, ingat ya! ada aku yang selalu ada di pihakmu.',
     'Aku sayang kamu hari ini, besok, dan di semua ulang tahun berikutnya.',
   ],
   closing: 'Selamanya milikmu,',
